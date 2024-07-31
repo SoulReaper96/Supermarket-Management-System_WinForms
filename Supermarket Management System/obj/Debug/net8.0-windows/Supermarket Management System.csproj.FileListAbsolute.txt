@@ -1,0 +1,34 @@
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\Supermarket Management System.exe
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\Supermarket Management System.deps.json
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\Supermarket Management System.runtimeconfig.json
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\Supermarket Management System.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\Supermarket Management System.pdb
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\CustomControlLibrary.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\CustomControlLibrary.pdb
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.csproj.AssemblyReference.cache
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Loading.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Login.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Mainmenu.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.csproj.GenerateResource.cache
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.AssemblyInfoInputs.cache
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.AssemblyInfo.cs
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.csproj.CoreCompileInputs.cache
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermar.4FC8E29B.Up2Date
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\refint\Supermarket Management System.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.pdb
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket Management System.genruntimeconfig.cache
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\ref\Supermarket Management System.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Brands.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Categories.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Products.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Properties.Resources.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Sellers.resources
+G:\Studies\Supermarket Management System\Supermarket Management System\obj\Debug\net8.0-windows\Supermarket_Management_System.Sales.resources
